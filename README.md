@@ -24,7 +24,7 @@ You can find me on the 42 intranet under the username [elopez-u](https://profile
 <table>
     <thead>
         <tr>
-            <th>Milestone 1</th>
+            <th colspan="3">Milestone 1</th>
         </tr>
     </thead>
     <tbody>
