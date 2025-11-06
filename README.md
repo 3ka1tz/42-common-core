@@ -72,10 +72,15 @@ You can find me on the 42 intranet under the username [elopez-u](https://profile
     <td><a href="https://github.com/3ka1tz/cpp00"><img src="https://raw.githubusercontent.com/3ka1tz/cpp00/main/images/CPP00.png"/></a></td>
     <td><a href="https://github.com/3ka1tz/cpp01"><img src="https://raw.githubusercontent.com/3ka1tz/cpp01/main/images/CPP01.png"/></a></td>
     <td><a href="https://github.com/3ka1tz/cpp02"><img src="https://raw.githubusercontent.com/3ka1tz/cpp02/main/images/CPP02.png"/></a></td>
+    <td><a href="https://github.com/3ka1tz/cpp03"><img src="https://raw.githubusercontent.com/3ka1tz/cpp03/main/images/CPP03.png"/></a></td>
+    <td><a href="https://github.com/3ka1tz/cpp04"><img src="https://raw.githubusercontent.com/3ka1tz/cpp04/main/images/CPP04.png"/></a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/3ka1tz/cpp05"><img src="https://raw.githubusercontent.com/3ka1tz/cpp05/main/images/CPP05.png"/></a></td>
     <td><a href="https://github.com/3ka1tz/cpp06"><img src="https://raw.githubusercontent.com/3ka1tz/cpp06/main/images/CPP06.png"/></a></td>
+    <td><a href="https://github.com/3ka1tz/cpp07"><img src="https://raw.githubusercontent.com/3ka1tz/cpp07/main/images/CPP07.png"/></a></td>
+    <td><a href="https://github.com/3ka1tz/cpp08"><img src="https://raw.githubusercontent.com/3ka1tz/cpp08/main/images/CPP08.png"/></a></td>
+    <td><a href="https://github.com/3ka1tz/cpp09"><img src="https://raw.githubusercontent.com/3ka1tz/cpp09/main/images/CPP09.png"/></a></td>
   </tr>
 </table>
 
