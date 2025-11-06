@@ -9,78 +9,48 @@ You can find me on the 42 intranet under the username [elopez-u](https://profile
 ## Common Core
 
 <table>
-  <thead>
     <tr>
-      <th>Milestones</th>
-      <th>Description</th>
-      <th>Project</th>
+      <td>Milestone 0</td>
     </tr>
-  </thead>
-  <tbody>
-    <!-- Milestone 0 -->
     <tr>
-      <td>Milestone 0 </td>
-      <td>Code a C library that will include numerous general purpose functions for your programs.</td>
-      <td><a href="https://github.com/3ka1tz/libft"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/libfte.png"/></a></td>
+      <td><a href="https://github.com/3ka1tz/libft"><img src="https://raw.githubusercontent.com/3ka1tz/libft/main/images/badges/libfte.png"/></a></td>
     </tr>
-    <!-- Milestone 1 -->
     <tr>
       <td rowspan="3">Milestone 1</td>
-      <td>Program a function that returns a line read from a file descriptor.</td>
-      <td><a href="https://github.com/3ka1tz/get_next_line"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/get_next_linee.png"/></a></td> 
     </tr>
     <tr>
-      <td>Placeholder</td>
-      <td><a href="https://github.com/3ka1tz/ft_printf"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/ft_printfe.png"/></a></td>
+      <td><a href="https://github.com/3ka1tz/get_next_line"><img src="https://raw.githubusercontent.com/3ka1tz/get_next_line/main/images/badges/get_next_linee.png"/></a></td>
+      <td><a href="https://github.com/3ka1tz/ft_printf"><img src="https://raw.githubusercontent.com/3ka1tz/ft_printf/main/images/badges/ft_printfe.png"/></a></td>
+      <td><a href="https://github.com/3ka1tz/born2beroot"><img src="https://raw.githubusercontent.com/3ka1tz/born2beroot/main/images/badges/born2beroote.png"/></a></td>
     </tr>
-    <tr>
-      <td>Placeholder</td>
-      <td><a href="https://github.com/3ka1tz/born2beroot"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/born2beroote.png"/></a></td>
-    </tr>
-    <!-- Milestone 2 -->
     <tr>
       <td rowspan="3">Milestone 2</td>
-      <td>Placeholder</td>
-      <td><a href="https://github.com/3ka1tz/pipex"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/pipexe.png"/></a></td>
     </tr>
     <tr>
-      <td>Placeholder</td>
-      <td><a href="https://github.com/3ka1tz/push_swap"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/push_swape.png"/></a></td>
+      <td><a href="https://github.com/3ka1tz/pipex"><img src="https://raw.githubusercontent.com/3ka1tz/pipex/main/images/badges/pipexe.png"/></a></td>
+      <td><a href="https://github.com/3ka1tz/push_swap"><img src="https://raw.githubusercontent.com/3ka1tz/push_swap/main/images/badges/push_swape.png"/></a></td>
+      <td><a href="https://github.com/3ka1tz/so_long"><img src="https://raw.githubusercontent.com/3ka1tz/so_long/main/images/badges/so_longe.png"/></a></td>
     </tr>
-    <tr>
-      <td>Placeholder</td>
-      <td><a href="https://github.com/3ka1tz/so_long"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/so_longe.png"/></a></td>
-    </tr>
-    <!-- Milestone 3 -->
     <tr>
       <td rowspan="2">Milestone 3</td>
-      <td>Placeholder</td>
-      <td><a href="https://github.com/3ka1tz/philosophers"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/philosopherse.png"/></a></td>
     </tr>
     <tr>
-      <td>Placeholder</td>
-      <td><a href="https://github.com/3ka1tz/minishell"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/minishelle.png"/></a></td>
+      <td><a href="https://github.com/3ka1tz/philosophers"><img src="https://raw.githubusercontent.com/3ka1tz/philosophers/main/images/badges/philosopherse.png"/></a></td>
+      <td><a href="https://github.com/3ka1tz/minishell"><img src="https://raw.githubusercontent.com/3ka1tz/minishell/main/images/badges/minishelle.png"/></a></td>
     </tr>
-  </tbody>
-</table>
-
-<table>
-  <tr>
-    <th colspan="5">CPP Modules</th>
-  </tr>
+    <tr>
+      <td rowspan="5">Milestone 4</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/3ka1tz/net-practice"><img src="https://raw.githubusercontent.com/3ka1tz/net-practice/main/images/badges/netpracticeee.png"/></a></td>
+      <td><a href="https://github.com/3ka1tz/cub3d"><img src="https://raw.githubusercontent.com/3ka1tz/cub3d/main/images/badges/cub3de.png"/></a></td>
+    </tr>
   <tr>
     <td><a href="https://github.com/3ka1tz/cpp00"><img src="https://raw.githubusercontent.com/3ka1tz/cpp00/main/images/CPP00.png"/></a></td>
     <td><a href="https://github.com/3ka1tz/cpp01"><img src="https://raw.githubusercontent.com/3ka1tz/cpp01/main/images/CPP01.png"/></a></td>
     <td><a href="https://github.com/3ka1tz/cpp02"><img src="https://raw.githubusercontent.com/3ka1tz/cpp02/main/images/CPP02.png"/></a></td>
     <td><a href="https://github.com/3ka1tz/cpp03"><img src="https://raw.githubusercontent.com/3ka1tz/cpp03/main/images/CPP03.png"/></a></td>
     <td><a href="https://github.com/3ka1tz/cpp04"><img src="https://raw.githubusercontent.com/3ka1tz/cpp04/main/images/CPP04.png"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/3ka1tz/cpp05"><img src="https://raw.githubusercontent.com/3ka1tz/cpp05/main/images/CPP05.png"/></a></td>
-    <td><a href="https://github.com/3ka1tz/cpp06"><img src="https://raw.githubusercontent.com/3ka1tz/cpp06/main/images/CPP06.png"/></a></td>
-    <td><a href="https://github.com/3ka1tz/cpp07"><img src="https://raw.githubusercontent.com/3ka1tz/cpp07/main/images/CPP07.png"/></a></td>
-    <td><a href="https://github.com/3ka1tz/cpp08"><img src="https://raw.githubusercontent.com/3ka1tz/cpp08/main/images/CPP08.png"/></a></td>
-    <td><a href="https://github.com/3ka1tz/cpp09"><img src="https://raw.githubusercontent.com/3ka1tz/cpp09/main/images/CPP09.png"/></a></td>
   </tr>
 </table>
 
