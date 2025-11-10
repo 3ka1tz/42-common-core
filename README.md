@@ -62,7 +62,7 @@ You can find me on the 42 intranet under the username [elopez-u](https://profile
 </table>
 
 ## Milestone 4
-<table width="100%">
+<table width="800">
     <thead>
         <tr>
             <th>Project</th>
