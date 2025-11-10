@@ -68,16 +68,18 @@ You can find me on the 42 intranet under the username [elopez-u](https://profile
     <tr>
         <td>CPP Module 00</td>
         <td>Introduction to C++</td>
-        <td><a href="https://github.com/3ka1tz/cpp00"><img src="https://raw.githubusercontent.com/3ka1tz/cpp02/main/images/CPP00.png"/></a></td>
+        <td><a href="https://github.com/3ka1tz/cpp00"><img src="https://raw.githubusercontent.com/3ka1tz/cpp00/main/images/CPP00.png"/></a></td>
     </tr>
     <tr>
         <td>CPP Module 01</td>
         <td>
-            - Stack vs Heap allocation
-            - References
-            - Pointers to member functions
+            <ul>
+                <li>Stack vs Heap allocation</li>
+                <li>References</li>
+                <li>Pointers to member functions</li>
+            </ul>
         </td>
-        <td><a href="https://github.com/3ka1tz/cpp00"><img src="https://raw.githubusercontent.com/3ka1tz/cpp02/main/images/CPP01.png"/></a></td>
+        <td><a href="https://github.com/3ka1tz/cpp01"><img src="https://raw.githubusercontent.com/3ka1tz/cpp01/main/images/CPP01.png"/></a></td>
     </tr>
     <tr>
         <td>CPP Module 02</td>
