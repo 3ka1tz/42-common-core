@@ -61,10 +61,17 @@ You can find me on the 42 intranet under the username [elopez-u](https://profile
   <tr>
     <td><a href="https://github.com/3ka1tz/cpp00"><img src="https://raw.githubusercontent.com/3ka1tz/cpp00/main/images/CPP00.png"/></a></td>
     <td><a href="https://github.com/3ka1tz/cpp01"><img src="https://raw.githubusercontent.com/3ka1tz/cpp01/main/images/CPP01.png"/></a></td>
-    <td><a href="https://github.com/3ka1tz/cpp02"><img src="https://raw.githubusercontent.com/3ka1tz/cpp02/main/images/CPP02.png"/></a></td>
     <td><a href="https://github.com/3ka1tz/cpp03"><img src="https://raw.githubusercontent.com/3ka1tz/cpp03/main/images/CPP03.png"/></a></td>
     <td><a href="https://github.com/3ka1tz/cpp04"><img src="https://raw.githubusercontent.com/3ka1tz/cpp04/main/images/CPP04.png"/></a></td>
   </tr>
+</table>
+
+<table>
+    <tr>
+        <th>CPP Module 02</th>
+        <td>Orthodox Canonical class form and fixed-point numbers</td>
+        <td><a href="https://github.com/3ka1tz/cpp02"><img src="https://raw.githubusercontent.com/3ka1tz/cpp02/main/images/CPP02.png"/></a></td>
+    </tr>
 </table>
 
 All badges were downloaded from [github.com/ayogun/42-project-badges](https://github.com/ayogun/42-project-badges).
