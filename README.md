@@ -55,7 +55,7 @@ Every project repo has everything needed to be completed. I added some images, s
         <tr>
             <td><a href="https://github.com/3ka1tz/cpp-module-04">CPP Module 04</a></td>
             <td>Placeholder</td>
-            <td><a href="https://github.com/3ka1tz/cpp-module-04"><img src="https://raw.githubusercontent.com/3ka1tz/cpp04/main/images/CPP04.png"/></a></td>
+            <td><a href="https://github.com/3ka1tz/cpp-module-04"><img src="https://raw.githubusercontent.com/3ka1tz/cpp04/main/CPP04.png"/></a></td>
         </tr>
     </tbody>
 </table>
