@@ -28,17 +28,17 @@ Every project repo has everything needed to be completed. I added some images, s
         </tr>
         <tr>
             <td><a href="https://github.com/3ka1tz/cpp-module-00">CPP Module 00</a></td>
-            <td>Introduction to C++ (C++98 standard).</td>
+            <td>Namespaces, classes, member functions, stdio streams, initialization lists, static, const, and some other basic stuff.</td>
             <td><a href="https://github.com/3ka1tz/cpp-module-00"><img src="https://raw.githubusercontent.com/3ka1tz/cpp00/main/images/CPP00.png"/></a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/3ka1tz/cpp-module-01">CPP Module 01</a></td>
-            <td>Stack vs heap allocation, references and pointers to member functions.</td>
+            <td>Memory allocation, pointers to members, references and switch statements.</td>
             <td><a href="https://github.com/3ka1tz/cpp-module-01"><img src="https://raw.githubusercontent.com/3ka1tz/cpp01/main/images/CPP01.png"/></a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/3ka1tz/cpp-module-02">CPP Module 02</a></td>
-            <td>Orthodox Canonical class form and fixed-point numbers.</td>
+            <td>Ad-hoc polymorphism, operator overloading and the Orthodox Canonical class form.</td>
             <td><a href="https://github.com/3ka1tz/cpp-module-02"><img src="https://raw.githubusercontent.com/3ka1tz/cpp02/main/images/CPP02.png"/></a></td>
         </tr>
         <tr>
