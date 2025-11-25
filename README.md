@@ -6,6 +6,18 @@ Click on the project names or badges below to access each individual project rep
 
 Every project repo has everything needed to be completed. I added some images, so you can use them when documenting your own progress. All those images were downloaded from [github.com/ayogun/42-project-badges](https://github.com/ayogun/42-project-badges). Furthermore, I replicated all project subjects into their respective repository README.md files to preserve the information in case the originals are deleted.
 
+<table>
+    <tr>
+        <th colspan="3">Rank 0</th>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/3ka1tz/libft">Libft</a></td>
+        <td>This project is your very first project as a student at 42. You will need to recode a few functions from the C standard library, as well as some other utility functions that you will use throughout your whole curriculum.</td>
+        <td><a href="https://github.com/3ka1tz/libft"><img src="https://raw.githubusercontent.com/3ka1tz/libft/main/images/libfte.png"/></a></td>
+    </tr>
+</table>
+
+
 ## Milestone 4
 <table>
     <thead>
