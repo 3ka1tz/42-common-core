@@ -15,8 +15,25 @@ Every project repo has everything needed to be completed. I added some images, s
         <td>This project is your very first project as a student at 42. You will need to recode a few functions from the C standard library, as well as some other utility functions that you will use throughout your whole curriculum.</td>
         <td><a href="https://github.com/3ka1tz/libft"><img src="https://raw.githubusercontent.com/3ka1tz/libft/main/images/libfte.png"/></a></td>
     </tr>
+    <tr>
+        <th colspan="3">Rank 1</th>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/3ka1tz/get_next_line">get_next_line</a></td>
+        <td>May it be a file, stdin, or even later a network connection, you will always need a way to read content line by line. It is time to start working on this function, which will be essential for your future projects.</td>
+        <td><a href="https://github.com/3ka1tz/get_next_line"><img src="https://raw.githubusercontent.com/3ka1tz/get_next_line/main/images/get_next_linee.png"/></a></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/3ka1tz/ft_printf">ft_printf</a></td>
+        <td>This project is pretty straightforward, you have to recode printf. You will learn what is and how to implement variadic functions. Once you validate it, you will reuse this function in your future projects.</td>
+        <td><a href="https://github.com/3ka1tz/ft_printf"><img src="https://raw.githubusercontent.com/3ka1tz/ft_printf/main/images/ft_printfe.png"/></a></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/3ka1tz/born2beroot">Born2beroot</a></td>
+        <td>This project aims to introduce you to the wonderful world of virtualization.</td>
+        <td><a href="https://github.com/3ka1tz/born2beroot"><img src="https://raw.githubusercontent.com/3ka1tz/born2beroot/main/images/born2beroote.png"/></a></td>
+    </tr>
 </table>
-
 
 ## Milestone 4
 <table>
