@@ -64,54 +64,44 @@ Every project repo has everything needed to be completed. I added some images, s
         <td>The objective of this project is for you to create a simple shell.</td>
         <td><a href="https://github.com/3ka1tz/minishell"><img src="https://raw.githubusercontent.com/3ka1tz/minishell/main/images/minishelle.png"/></a></td>
     </tr>
-</table>
-
-## Milestone 4
-<table>
-    <thead>
-        <tr>
-            <th>Project</th>
-            <th>Description</th>
-            <th>Badge</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><a href="https://github.com/3ka1tz/netpractice">Net Practice</a></td>
-            <td>Basics of networking with TCP/IP addressing exercises in a Cisco Packet Tracer-style environment.</td>
-            <td><a href="https://github.com/3ka1tz/netpractice"><img src="https://raw.githubusercontent.com/3ka1tz/netpractice/main/images/netpracticee.png"/></a></td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/3ka1tz/cub3d">Cub3D</a></td>
-            <td>Ray casting FPS (First Person Shooter) video game, inspired by Wolfestein 3D and DOOM, made using just MiniLibX as the graphics and input library.</td>
-            <td><a href="https://github.com/3ka1tz/cub3d"><img src="https://raw.githubusercontent.com/3ka1tz/cub3d/main/images/cub3de.png"/></a></td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/3ka1tz/cpp-module-00">CPP Module 00</a></td>
-            <td>Namespaces, classes, member functions, stdio streams, initialization lists, static, const, and some other basic stuff.</td>
-            <td><a href="https://github.com/3ka1tz/cpp-module-00"><img src="https://raw.githubusercontent.com/3ka1tz/cpp00/main/images/CPP00.png"/></a></td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/3ka1tz/cpp-module-01">CPP Module 01</a></td>
-            <td>Memory allocation, pointers to members, references and switch statements.</td>
-            <td><a href="https://github.com/3ka1tz/cpp-module-01"><img src="https://raw.githubusercontent.com/3ka1tz/cpp01/main/images/CPP01.png"/></a></td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/3ka1tz/cpp-module-02">CPP Module 02</a></td>
-            <td>Ad-hoc polymorphism, operator overloading and the Orthodox Canonical class form.</td>
-            <td><a href="https://github.com/3ka1tz/cpp-module-02"><img src="https://raw.githubusercontent.com/3ka1tz/cpp02/main/images/CPP02.png"/></a></td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/3ka1tz/cpp-module-03">CPP Module 03</a></td>
-            <td>Inheritance.</td>
-            <td><a href="https://github.com/3ka1tz/cpp-module-03"><img src="https://raw.githubusercontent.com/3ka1tz/cpp03/main/images/CPP03.png"/></a></td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/3ka1tz/cpp-module-04">CPP Module 04</a></td>
-            <td>Subtype Polymorphism, Abstract Classes and Interfaces.</td>
-            <td><a href="https://github.com/3ka1tz/cpp-module-04"><img src="https://raw.githubusercontent.com/3ka1tz/cpp04/main/images/CPP04.png"/></a></td>
-        </tr>
-    </tbody>
+    <tr>
+        <th colspan="3">Rank 4</th>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/3ka1tz/netpractice">NetPractice</a></td>
+        <td>NetPractice is a general practical exercise to let you discover networking.</td>
+        <td><a href="https://github.com/3ka1tz/netpractice"><img src="https://raw.githubusercontent.com/3ka1tz/netpractice/main/images/netpracticee.png"/></a></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/3ka1tz/cub3d">cub3d</a></td>
+        <td>This project is inspired by the world-famous eponymous 90's game, which was the first FPS ever. It will enable you to explore ray-casting. Your goal will be to make a dynamic view inside a maze, in which you'll have to find your way.</td>
+        <td><a href="https://github.com/3ka1tz/cub3d"><img src="https://raw.githubusercontent.com/3ka1tz/cub3d/main/images/cub3de.png"/></a></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/3ka1tz/cpp-module-00">CPP Module 00</a></td>
+        <td>This project aims to deepen your understanding of the two concepts that you already know: Redirections and Pipes. It is an introductory project for the bigger UNIX projects that will appear later on in the cursus.</td>
+        <td><a href="https://github.com/3ka1tz/cpp-module-00"><img src="https://raw.githubusercontent.com/3ka1tz/cpp-module-00/main/images/CPP00.png"/></a></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/3ka1tz/cpp-module-01">CPP Module 01</a></td>
+        <td>This module is designed to help you understand memory allocation, references, pointers to members, and the usage of the switch statement in C++.</td>
+        <td><a href="https://github.com/3ka1tz/cpp-module-01"><img src="https://raw.githubusercontent.com/3ka1tz/cpp-module-01/main/images/CPP01.png"/></a></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/3ka1tz/cpp-module-02">CPP Module 02</a></td>
+        <td>This module is designed to help you understand ad-hoc polymorphism, function overloading, and orthodox canonical classes in C++.</td>
+        <td><a href="https://github.com/3ka1tz/cpp-module-02"><img src="https://raw.githubusercontent.com/3ka1tz/cpp-module-02/main/images/CPP02.png"/></a></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/3ka1tz/cpp-module-03">CPP Module 03</a></td>
+        <td>This module is designed to help you understand inheritance in C++.</td>
+        <td><a href="https://github.com/3ka1tz/cpp-module-03"><img src="https://raw.githubusercontent.com/3ka1tz/cpp-module-03/main/images/CPP03.png"/></a></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/3ka1tz/cpp-module-04">CPP Module 04</a></td>
+        <td>This module is designed to help you understand subtype polymorphism, abstract classes, and interfaces in C++.</td>
+        <td><a href="https://github.com/3ka1tz/cpp-module-04"><img src="https://raw.githubusercontent.com/3ka1tz/cpp-module-04/main/images/CPP04.png"/></a></td>
+    </tr>
 </table>
 
 ## Disclaimer
